@@ -1,0 +1,12 @@
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppLatihan9279\bin\Debug\AppLatihan9279.exe.config
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppLatihan9279\bin\Debug\AppLatihan9279.exe
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppLatihan9279\bin\Debug\AppLatihan9279.pdb
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppLatihan9279\obj\Debug\AppLatihan9279.csprojResolveAssemblyReference.cache
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppLatihan9279\obj\Debug\AppLatihan9279.exe
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppLatihan9279\obj\Debug\AppLatihan9279.pdb
+C:\Users\xenom_user\Documents\Visual Studio 2015\Projects\Form Login\AppLatihan9279\AppLatihan9279\bin\Debug\AppLatihan9279.exe.config
+C:\Users\xenom_user\Documents\Visual Studio 2015\Projects\Form Login\AppLatihan9279\AppLatihan9279\obj\Debug\AppLatihan9279.exe
+C:\Users\xenom_user\Documents\Visual Studio 2015\Projects\Form Login\AppLatihan9279\AppLatihan9279\obj\Debug\AppLatihan9279.pdb
+C:\Users\xenom_user\Documents\Visual Studio 2015\Projects\Form Login\AppLatihan9279\AppLatihan9279\bin\Debug\AppLatihan9279.exe
+C:\Users\xenom_user\Documents\Visual Studio 2015\Projects\Form Login\AppLatihan9279\AppLatihan9279\bin\Debug\AppLatihan9279.pdb
+C:\Users\xenom_user\Documents\Visual Studio 2015\Projects\Form Login\AppLatihan9279\AppLatihan9279\obj\Debug\AppLatihan9279.csprojResolveAssemblyReference.cache

@@ -13,7 +13,7 @@ namespace AppLatihan9279
         {
             bonus = 250000;
         }
-        public void TampilData()
+        public override void TampilData()
         {
             Console.WriteLine("Nama Karyawan\t: " + nama);
             Console.WriteLine("NIM Karyawan\t: " + nim);

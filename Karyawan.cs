@@ -41,11 +41,11 @@ namespace AppLatihan9279
             nim = "15118669";
             gapok = 1000000;
         }
-        public void TampilData()
+        public virtual void TampilData()
         {
             Console.WriteLine("Nama Karyawan\t: " + nama);
             Console.WriteLine("NIM Karyawan\t: " + nim);
-            Console.WriteLine("Gaji Pokok\t: " + gapok);
+            
         }
     }
 }
